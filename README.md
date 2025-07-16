@@ -3,9 +3,9 @@
 This isn't a startup idea. It's not a product.  
 It's just something I built out of curiosity.
 
-A friend of mine was learning to type faster.  
-He also wanted to get better at English.  
-I wondered — what if both could happen at the same time?
+Some kids in my neighbourhood were learning to type faster,
+and they also wanted to improve their English.
+I wondered: what if they could do both at the same time?
 
 So I made FluenType.
 
