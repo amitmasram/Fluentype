@@ -84,7 +84,7 @@ export default function FluentypeLanding() {
           <Github className="w-5 h-5" />
         </Link>
         <p className="text-xs text-gray-300 text-center">
-          © 2024 FluenType.
+          © 2025 FluenType.
         </p>
       </footer>
     </div>
