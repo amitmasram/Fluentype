@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fluentype",
-  description: "Fluentype is a platform for boosting your typing speed.",
+  title: "FluenType",
+  description: "FluenType is a platform for boosting your typing speed.",
 };
 
 export default function RootLayout({
