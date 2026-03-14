@@ -73,9 +73,9 @@ function TypingPracticeContent() {
 
   const initAudioContext = () => {
     if (typeof window !== 'undefined' && !audioContextRef.current) {
-      const AudioContext = window.AudioContext || (window as any).webkitAudioContext;
-      if (AudioContext) {
-        audioContextRef.current = new AudioContext();
+      const AudioContextClass = window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
+      if (AudioContextClass) {
+        audioContextRef.current = new AudioContextClass();
       }
     }
   };

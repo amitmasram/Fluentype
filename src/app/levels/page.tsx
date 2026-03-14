@@ -96,7 +96,7 @@ export default function LevelsPage() {
                   <div className="bg-white/50 border border-stone-200 p-6 rounded-none space-y-4">
                     <p className="text-xs font-mono text-stone-400 uppercase tracking-widest">Preview</p>
                     <p className="font-mono text-stone-600 italic text-sm leading-relaxed">
-                      "{sentences[0]}"
+                      &quot;{sentences[0]}&quot;
                     </p>
                   </div>
 
