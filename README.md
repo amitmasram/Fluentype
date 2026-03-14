@@ -1,16 +1,20 @@
+
 # FluenType
 
-This isn't a startup idea. It's not a product.  
-It's just something I built out of curiosity.
+This isn’t a startup. Not a product.
+Just something I built out of curiosity.
 
-A friend of mine was learning to type faster.  
-He also wanted to get better at English.  
-I wondered — what if both could happen at the same time?
+Some kids in my neighbourhood wanted to **type faster** ∧ **improve their English**.
+I wondered: what if they could do both at the same time?
 
-So I made FluenType.
+∴ I made **FluenType**.
 
-It's a small app where you can practice typing while picking up English —  
-words, grammar, sentence flow. Nothing fancy. Just something useful.
+It’s a small app where you practice typing → learn English simultaneously:
+• Vocabulary
+• Grammar
+• Sentence flow
+
+Nothing fancy. Just simple and useful.
 
 ---
 
@@ -20,18 +24,20 @@ words, grammar, sentence flow. Nothing fancy. Just something useful.
 
 ## Checkout
 
-[fluentype.xyz](http://fluentype.xyz)
+➡ [fluentype.xyz](http://fluentype.xyz)
 
 ---
 
-## Why I made this
+## Why I Made This
 
-Mostly for fun.  
-Partly to help a friend.  
-Also to learn while building.
+• Curiosity → Fun
+• Learning → Helping a friend
+• Exploring → Building
 
-That’s it.
+∴ That’s it.
 
 ---
 
-Built by [@Amit Masram](http://amitmasram.com)
+If you want, I can **also make a slightly more “story-flow” version** with arrows and symbols showing: *Problem → Idea → Build → Result*, which makes it visually scannable like a mini case study.
+
+Do you want me to do that?
