@@ -36,8 +36,3 @@ Nothing fancy. Just simple and useful.
 
 ∴ That’s it.
 
----
-
-If you want, I can **also make a slightly more “story-flow” version** with arrows and symbols showing: *Problem → Idea → Build → Result*, which makes it visually scannable like a mini case study.
-
-Do you want me to do that?
